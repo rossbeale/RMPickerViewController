@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RMPickerViewController"
-  s.version      = "1.1.1"
+  s.version      = "1.1.2"
   s.summary      = "This is an iOS control for selecting something using UIPickerView in a UIActionSheet like fashion"
   s.homepage     = "https://github.com/CooperRS/RMPickerViewController"
   s.screenshots  = "http://cooperrs.github.io/RMPickerViewController/images/Screen1.png", "http://cooperrs.github.io/RMPickerViewController/images/Screen2.png"
