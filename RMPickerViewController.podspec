@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.author       = { "Roland Moers" => "rm@cooperrs.de" }
   s.source       = { :git => "https://github.com/CooperRS/RMPickerViewController.git", :tag => "1.4.1" }
   s.source_files = 'RMPickerViewController/*'
-  s.platform     = :ios, '8.0'
+  s.platform     = :ios, '7.0'
   s.requires_arc = true
   s.framework    = 'CoreGraphics', 'QuartzCore'
 end
